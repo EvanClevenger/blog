@@ -2,7 +2,7 @@ import React , {useContext} from 'react'
 
 import Link  from 'next/link';
 
-const categories = [{ name: 'React' , slug: 'react' }, { name: "Web Development", slug: 'web-dev'}]
+const categories = [{ name: 'WarZone 2.0' , slug: 'wz2' }, { name: "Apex Legends", slug: 'apxL'}]
 
 const Header = () => {
   return (
